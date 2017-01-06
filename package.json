@@ -1,6 +1,6 @@
 {
   "name": "monobrow-react-pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Monobrow config pack with some common react dependencies",
   "main": "index.js",
   "browser": "dist/vendor.js",
