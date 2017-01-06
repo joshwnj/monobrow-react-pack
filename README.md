@@ -2,6 +2,18 @@
 
 A monobrow config pack with some common react dependencies.
 
+Configures your monobrow build with `babel` and `react` presets.
+
+Includes the following libraries:
+
+- classnames
+- react
+- react-dom
+- redux
+- react-redux
+
+## Usage
+
 To include in your project:
 
 - `npm install -S monobrow-react-pack`
@@ -17,6 +29,10 @@ module.exports = {
   ]
 }
 ```
+
+## Development
+
+If you want to try making changes or forking this, remember to run `npm run build` to rebundle the vendor files.
 
 ## License
 
